@@ -1,4 +1,4 @@
-# SmartHealth AI Project
+# AI Based Health Risk Prediction System
 
 A comprehensive machine learning pipeline for health risk prediction using XGBoost and SHAP explainability.
 
